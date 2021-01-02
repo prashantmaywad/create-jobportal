@@ -1,0 +1,30 @@
+.candidates {
+  margin: 10px;
+  text-align: -webkit-center;
+  top: 0;
+}
+.candidate {
+  margin-top: 5px;
+  max-width: 500px;
+  align-self: center;
+}
+.cardImage {
+  height: 350px;
+  width: 300px !important;
+  clear: left;
+  float: right;
+}
+.home__searchCandidates {
+  margin: auto;
+  margin-bottom: 10px;
+}
+.btn_shortlist {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 50%;
+}
+.btn_reject {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 50%;
+}

@@ -1,0 +1,17 @@
+.home {
+  width: 100%;
+  height: 100%;
+  background-color: lightgray;
+  overflow: auto;
+}
+.home__Candidates {
+  height: 700px;
+  margin-top: 10px;
+}
+.home__searchCandidates {
+  margin: auto;
+  margin-top: 30px;
+}
+.cardTitle {
+  color: black;
+}

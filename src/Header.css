@@ -1,0 +1,15 @@
+.header {
+  width: 100%;
+  background-color: black;
+  color: aliceblue;
+  height: 60px;
+  display: flex;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.header__logo {
+  margin: auto;
+  margin-left: 50px;
+  color: aliceblue;
+}
